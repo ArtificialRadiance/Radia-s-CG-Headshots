@@ -10,4 +10,5 @@ Due to this being for headshots, certain things cannot be displayed (hence why I
 - Cats that have missing limbs will have a circle in one of the lower corners.
    - Missing paw = 🔵
    - Missing Tail = 🟡 // Half Tail = 🟡 halved
--# I have not decided if I plan on noting white markings that only cover the body yet, whether its through another symbol or by adding something like a spot to the face; might make a poll about it.
+
+I have not decided if I plan on noting white markings that only cover the body yet, whether its through another symbol or by adding something like a spot to the face; might make a poll about it.
